@@ -1,6 +1,6 @@
 # GifFinderApp
 
-Este es mi repositorio del proyecto "GiftExpertApp" de React del curso de Fernando Herrera
+Repositorio del proyecto "GiftExpertApp" de React
 
 Vite
 React 18
